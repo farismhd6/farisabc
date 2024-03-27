@@ -25,11 +25,12 @@
     }
     .about-heading {
       margin-bottom: 30px;
-    }
+    } 
     .icon {
       font-size: 48px;
       margin-bottom: 15px;
     }
+    
   </style>
 </head>
 <body>
